@@ -10,8 +10,8 @@ In this lab you'll get to see how tableviews and collectionviews are typically i
 
 ## Screenshots ##
 
-![](/README-images/pokedex-1.png =200x400)
+![](/README-images/pokedex-1.png)
 
-![](/README-images/pokedex-2.png =200x400)
+![](/README-images/pokedex-2.png)
 
-![](/README-images/pokedex-3.png =200x400)
+![](/README-images/pokedex-3.png)
