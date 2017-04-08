@@ -1,4 +1,4 @@
-# Lab 4 : TableViews and CollectionViews #
+# Lab 4 : Pokedex #
 
 
 ## Due Date ##
@@ -10,4 +10,6 @@ In this lab you'll get to see how tableviews and collectionviews are typically i
 
 ## Screenshots ##
 
-![alt text](/README-images/tableviewcell.png)
+![alt text](/README-images/pokedex-1.jpg)
+
+![alt text](/README-images/pokedex-2.jpg)
