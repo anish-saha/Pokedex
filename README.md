@@ -10,6 +10,6 @@ In this lab you'll get to see how tableviews and collectionviews are typically i
 
 ## Screenshots ##
 
-![alt text](/README-images/pokedex-1.jpg)
+![alt text](/README-images/pokedex-1.png)
 
-![alt text](/README-images/pokedex-2.jpg)
+![alt text](/README-images/pokedex-2.png)
