@@ -4,8 +4,8 @@ In this lab you'll get to see how TableViews and CollectionViews are implemented
 
 ## Screenshots ##
 
-![](/README-images/pokedex-1.png =40x400)
+<img src="https://github.com//README-images/pokedex-1.png" height="40" width="400">
 
-![](/README-images/pokedex-2.png =40x400)
+<img src="https://github.com//README-images/pokedex-2.png" height="40" width="400">
 
-![](/README-images/pokedex-3.png =40x400)
+<img src="https://github.com//README-images/pokedex-3.png" height="40" width="400">
